@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638582227346",
+    "project_id": "agendamentos-bac97",
+    "storage_bucket": "agendamentos-bac97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638582227346:android:b039eaa08a48f9293c414b",
+        "android_client_info": {
+          "package_name": "com.mycompany.agendamento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWetdQET79f23FgporyCl84Ydk3-3b0NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
